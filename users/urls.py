@@ -1,0 +1,1 @@
+#ketu nuk ka regjistru path, sepse tek urls.py tek django_project e ka thirr view-n users direkt.
